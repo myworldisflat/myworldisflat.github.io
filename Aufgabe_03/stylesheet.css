@@ -1,0 +1,17 @@
+body
+{background-color: #ffc1fd}
+
+img{border: 10%;
+    border-radius: 80%;
+    height: 12%;
+    width: 12%}
+
+p{font-family: "Times New Roman", Times, serif;
+color:#351abc;
+text-align: left;
+font-size: 1em}
+section
+{background-color: #e5e0ff;
+    width: 100%}
+    article {background-color: #f8e0ff;
+    width:85%}  
